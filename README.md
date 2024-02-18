@@ -15,9 +15,9 @@ A student of the Informatics Engineering Study Program at Harapan Bersama Polyte
 - <a href="https://www.youtube.com/channel/UCIKZwqHiTK3xzE21jyMDznA">YouTube</a>
 
 
-<h2 align="center">Connect with me:</h2>
-<div align="center" id="badges">
-<div align="center" id="badges">
+### Connect with me
+<div align="left" id="badges">
+<div align="left" id="badges">
   <a href="https://www.linkedin.com/in/firda-aulia-rakhmah/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

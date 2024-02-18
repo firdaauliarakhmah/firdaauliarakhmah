@@ -1,6 +1,6 @@
 ### Hi Everyone! 👋 I'm Fida.
 
-I am Firda, a student of the Informatics Engineering Study Program from Harapan Bersama Polytechnic who has an interest in the fields of Data Science and Data Analysis and Programming. I have the ability to communicate well and efficiently and am able to establish good relationships with other people. I am constantly looking for new and interesting experiences to expand my knowledge and skills. Apart from that, I am able to work individually and in a team, as proven by the competitions I have participated in and several projects I have completed.
+A student of the Informatics Engineering Study Program at Harapan Bersama Polytechnic who has an interest in the fields of Data Science and Data Analysis and Programming.
 
 - 🌱 I’m currently learning to become a data analyst
 - 💬 Being embarrassed to ask is the same as going astray on the road

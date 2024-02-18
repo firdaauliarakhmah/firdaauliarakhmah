@@ -1,4 +1,4 @@
-### Hi Everyone! 👋 I'm Fida.
+## Hi Everyone! 👋 I'm Fida.
 
 A student of the Informatics Engineering Study Program at Harapan Bersama Polytechnic who has an interest in the fields of Data Science and Data Analysis and Programming.
 
@@ -9,13 +9,13 @@ A student of the Informatics Engineering Study Program at Harapan Bersama Polyte
 - ⚡ Fun fact: Ordinary people
 
 
-### My Account
+## My Social Media
 - <a href="https://www.linkedin.com/in/firda-aulia-rakhmah/">LinkedIn</a>
 - <a href="https://www.instagram.com/fidaarakhma/">Instagram</a>
-- <a href="https://www.youtube.com/channel/UCIKZwqHiTK3xzE21jyMDznA">YouTube</a> 
+- <a href="https://www.youtube.com/channel/UCIKZwqHiTK3xzE21jyMDznA">YouTube</a>
 
 
-<h3 align="center">Follow My Social Media</h3>
+## Connect with me
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/firda-aulia-rakhmah/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,6 +25,8 @@ A student of the Informatics Engineering Study Program at Harapan Bersama Polyte
   </a>
   <a href="https://www.youtube.com/channel/UCIKZwqHiTK3xzE21jyMDznA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-
+  </a></br>
+  <a href="https://github.com/firdaauliarakhmah" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div>
